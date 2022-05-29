@@ -1,0 +1,22 @@
+.containerwhite{
+    text-align: center;
+    
+}
+.containergreen{
+    
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.containerblack{
+
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+.containerred{
+    text-align: center;
+    background-color: red;
+    color: white;
+
+}
